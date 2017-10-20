@@ -1,0 +1,5 @@
+需安装安装setuptools   python setup.py install
+安装pip python setup.py install
+
+安装psutil
+需安装gcc beautifulsoup
