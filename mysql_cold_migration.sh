@@ -4,7 +4,7 @@
 # @Filename:    mysql_cold_migration.sh     
 # @Version:     
 # @Created:     10.19.2017
-# @Author:      zhaowanming 
+# @Author:       
 # @Description: 
 # @History:     date time modify params xxxx
 # @Usage:       ./mysql_cold_migration.sh 
